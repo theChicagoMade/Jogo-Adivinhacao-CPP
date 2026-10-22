@@ -1,0 +1,15 @@
+
+# Arquivos executáveis
+*.exe
+*.o
+*.obj
+
+# Arquivos de depuração
+*.pdb
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.log
